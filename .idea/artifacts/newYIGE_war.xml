@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="newYIGE:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="newYIGE.war">
+      <element id="artifact" artifact-name="newYIGE:war exploded" />
+    </root>
+  </artifact>
+</component>
